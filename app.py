@@ -1,3 +1,4 @@
+# KR2: Беседина
 import os
 import socket
 
